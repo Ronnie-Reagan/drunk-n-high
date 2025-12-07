@@ -28,8 +28,7 @@ Place the Drunk-n-High shader folder or ZIP inside your `shaderpacks` directory,
 
 ---
 
-### Warning
-
-This shader applies visual distortion and color manipulation that may cause discomfort or disorientation. Use at your own discretion and **discontinue use if discomfort occurs**.
+> ### Warning
+> This shader applies visual distortion and color manipulation that may cause discomfort or disorientation. Use at your own discretion and **discontinue use if discomfort occurs**.
 
 ---
