@@ -15,7 +15,7 @@ The shader operates entirely in screen space and does not modify game logic, ent
 - Cursed or chaotic content creation
 - Visual effect experimentation
 
-# Installation Instructions
+### Installation Instructions
 
 • Requires Minecraft Java Edition  
 • Requires Iris shader loader  
