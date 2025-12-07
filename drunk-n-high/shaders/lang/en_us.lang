@@ -1,0 +1,11 @@
+option.MIRROR = Mirror Screen
+option.HUE_ANGLE = Hue Rotation
+option.HUE_STRENGTH = Hue Strength
+option.WOBBLE_STRENGTH = Wobble Strength
+option.WOBBLE_SPEED = Wobble Speed
+
+option.MIRROR.comment = Swap left/right view
+option.HUE_ANGLE.comment = Rotate color hue
+option.HUE_STRENGTH.comment = Strength of hue shift
+option.WOBBLE_STRENGTH.comment = Intensity of wobble effect
+option.WOBBLE_SPEED.comment = Speed of wobble oscillation
