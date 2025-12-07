@@ -15,9 +15,12 @@ The shader operates entirely in screen space and does not modify game logic, ent
 - Cursed or chaotic content creation
 - Visual effect experimentation
 
-### Warning
-This shader applies visual distortion and color manipulation that may cause discomfort or disorientation. Use at your own discretion and discontinue use if discomfort occurs.
+# Installation Instructions
 
-### Compatibility
-- Minecraft: Java Edition
-- Shader loaders: Iris
+• Requires Minecraft Java Edition  
+• Requires Iris shader loader  
+
+Place the Drunk-n-High shader folder or ZIP inside your `shaderpacks` directory, then enable it from the in-game shader selection menu.
+
+### Warning
+This shader applies visual distortion and color manipulation that may cause discomfort or disorientation. Use at your own discretion and **discontinue use if discomfort occurs**.
